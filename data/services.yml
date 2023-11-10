@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: Key Benefits
+services:
+  - icon: ti-money
+    title: Cheap
+    description: A unit of electricity costs less than 20 rupees
+
+  - icon: ti-bolt
+    title: Fast
+    description: DC Fast Charging up to 50kW
+
+  - icon: ti-face-smile
+    title: Convenient
+    description: Our stations have WiFi, clean bathrooms and a cafe.

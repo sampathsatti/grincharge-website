@@ -1,0 +1,19 @@
+---
+enable: true
+title: Frequently asked questions
+description: Hopefully you'll find some answers here, otherwise, please do email us.
+faqItem:
+  - question: Why should I charge my vehicle here?
+    answer: We offer faster charging speeds at lower rates than competitors. We also offer you a clean space where you can rest or work while your vehicle charges.
+    dataTarget: One
+    show: show
+
+  - question: How are you able to do this?
+    answer: Using micro-grid technology, we are able to generate electricity at a lower cost and pass it on to you. The very same sustainable electricity will power the cafe as well.
+    dataTarget: Two
+    show:
+
+  - question: Can I just come have a coffee?
+    answer: Of course! We aim for our installations to be multi-purpose destinations, you can come here to get a coffee, work on your laptop as well as charge your vehicle
+    dataTarget: Three
+    show:

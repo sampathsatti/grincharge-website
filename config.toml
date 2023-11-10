@@ -1,0 +1,67 @@
+# MAIN base
+baseURL = "https://apsho-hugo.netlify.app/"
+languageCode = "en-us"
+title = "Apsho | App landing template"
+theme = "apsho"
+
+# Navigation Bar
+[[menu.main]]
+    name = "Home"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "About"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "Services"
+    url = "#faq"
+    weight = 3
+[[menu.main]]
+    name = "Blog"
+    url = "#blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "Home"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "Latest Article"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "Privacy & Policy"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+address = ""
+email = "sampathsatti@gmail.com"
+phone = "+(91) 888 5918 330252"
+
+# Footer Social
+[params.social]
+facebook = ""
+twitter = ""
+github = ""
+
+[params]
+
+# Header
+logo = "images/GrinCharge_black.png"
+fabFormURL = "https://fabform.io/f/wQQO1Xc"
+
+# Footer
+footerTitle = "To get in touch with us, please use the information below"
+copyright1 = "All right reserved"
+copyright2 = "Copyright © {year}"
+
+#contact
+email = "sampathsatti@gmail.com"
