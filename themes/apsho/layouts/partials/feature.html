@@ -2,6 +2,15 @@
   {{ if .enable }}
     <section class="feature" id="feature">
       <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-12">
+            <div class="section-title">
+              <h2>
+                {{ .sectiontitle }}
+              </h2>
+            </div>
+          </div>
+        </div>
         <div class="row align-items-center">
           <div class="col-lg-6">
             <div class="feature-image">
@@ -55,6 +64,62 @@
             <div class="feature-image">
               <img
                 src="images/feature/ev_traffic.png"
+                alt="feature-image"
+              />
+            </div>
+          </div>
+        </div>
+        <div class="spacer" style="margin-top: 40px;"></div>
+        <div class="row align-items-center">
+          <div class="col-lg-6">
+            <div class="feature-image">
+              <img
+                src="images/feature/microgrid.jpg"
+                alt="feature-image"
+              />
+            </div>
+          </div>
+          <div class="col-lg-6">
+            <div class="feature-content ml-25">
+              <h2>
+                {{ .title3rd }}
+              </h2>
+              <p>
+                {{ .description3rd }}
+              </p>
+              <a href="#" data-text={{ .buttonText }} class="btn btn-primary">
+                <span>{{ .buttonText }}</span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="spacer" style="margin-top: 40px;"></div>
+        <div class="row align-items-center">
+          <div class="col-lg-6 order-2 order-lg-1">
+            <div class="feature-content mr-25">
+              <h2>
+                {{ .title4th }}
+              </h2>
+              <p>
+                {{ .description4th }}
+              </p>
+              <div class="feature-content-list">
+                <ul>
+                  {{ $Section := .checkItem }}
+                  {{ range $Section }}
+                    <li>
+                      <i class="ti-check"></i>
+                      <p> {{ .text }} </p>
+                    </li>
+                  {{ end }}
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2">
+            <div class="feature-image">
+              <img
+                src="images/feature/ev_eco_cafe.jpg"
                 alt="feature-image"
               />
             </div>

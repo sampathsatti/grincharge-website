@@ -1,10 +1,18 @@
 ---
+sectiontitle: Why we exist
 enable: true
-title: Polluting, burdened grid.
+title: 1. Polluting, burdened grid.
 description: According to the Central Electricity Authority, the average CO2 emissions intensity of hourly electricity supply in India was 800 gCO2 per kWh. Electricity from Solar generates 8 times less emissions. Moreover, the electrical grid is unable to keep up with the high demand, especially from fast DC charging stations.
 description2: Not everyone can install rooftop solar.
 
-Title2nd: Electric Vehicles ❤️ Indian Roads and traffic
-description2nd: Electric Vehicles are tailor made for Indian roads. There are no tail pipe emissions, regenerative braking is extremely efficient in start-stop traffic, and the lower speed limits on roads increase overall efficiency.
+Title2nd: 2. Electric Vehicles ❤️ Indian Roads and traffic
+description2nd: Electric Vehicles are tailor made for Indian roads. There are no tail pipe emissions, regenerative braking is extremely efficient in start-stop traffic, and the lower speed limits on roads increase overall efficiency. The charging infrastructure also needs to keep up with the growing adoption of EVs for customer satisfaction.
+
+title3rd: 3. Solar powered microgrids operating as virtual power plants
+description3rd: Currently the grid is a monolithic entity, where electricity is simply a commodity with no knowledge of its provenance. Outages can happen at the grid level. Solar powered microgrids in contrast build local community resilience and electricity is generated in a green manner. The large grid itself can be strengthed, where the microgrid feeds power back into the grid during times of high demand.
+
+title4th: 4. Bringing it all together
+description4th: Think of a gas station for your EV. You utilize green electricity generated from the solar panels at the station. While your vehicle recharges, so can you! The gas station will have a cozy cafe which will be a destination unto itself.
+
 image1: images/feature/burdened_grid.jpg
 image2: images/feature/ev_traffic.jpg

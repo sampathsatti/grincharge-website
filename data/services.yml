@@ -1,16 +1,16 @@
 #  icons can be found on https://themify.me/themify-icons
 ---
 enable: true
-title: Key Benefits
+title: Key Offerings
 services:
   - icon: ti-money
-    title: Cheap
-    description: A unit of electricity costs less than 20 rupees
+    title: Green Charging
+    description: 100kW of charging speed with 100kWh of storage
 
   - icon: ti-bolt
-    title: Fast
-    description: DC Fast Charging up to 50kW
+    title: Mini Cafe and Restrooms
+    description: Creates a charging destination with diversified revenue potential
 
   - icon: ti-face-smile
-    title: Convenient
-    description: Our stations have WiFi, clean bathrooms and a cafe.
+    title: Easy setup
+    description: Containerized install requires 2 days to setup, with no upgrading of grid connection for fast charging

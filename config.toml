@@ -1,7 +1,7 @@
 # MAIN base
 baseURL = "https://apsho-hugo.netlify.app/"
 languageCode = "en-us"
-title = "Apsho | App landing template"
+title = "GrinCharge"
 theme = "apsho"
 
 # Navigation Bar
@@ -10,11 +10,11 @@ theme = "apsho"
     url = "#hero"
     weight = 1
 [[menu.main]]
-    name = "About"
+    name = "About Us"
     url = "#feature"
     weight = 2
 [[menu.main]]
-    name = "Services"
+    name = "FAQ"
     url = "#faq"
     weight = 3
 [[menu.main]]
@@ -32,19 +32,14 @@ theme = "apsho"
     url = "/blog"
     weight = 2
 [[menu.sitemap]]
-    name = "Privacy & Policy"
-    url = "/privacy"
-    weight = 3
-[[menu.sitemap]]
     name = "Contact"
     url = "/contact"
-    weight = 4
+    weight = 3
 
 # Footer Address
 [params.address]
-address = ""
 email = "sampathsatti@gmail.com"
-phone = "+(91) 888 5918 330252"
+phone = "+(91) 8885918052"
 
 # Footer Social
 [params.social]
