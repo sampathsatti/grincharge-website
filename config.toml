@@ -1,5 +1,5 @@
 # MAIN base
-baseURL = "https://apsho-hugo.netlify.app/"
+baseURL = "https://grincharge.vensam.com"
 languageCode = "en-us"
 title = "GrinCharge"
 theme = "apsho"
@@ -39,7 +39,7 @@ theme = "apsho"
 # Footer Address
 [params.address]
 email = "sampathsatti@gmail.com"
-phone = "+(91) 8885918052"
+phone = "091 8885918052"
 
 # Footer Social
 [params.social]
